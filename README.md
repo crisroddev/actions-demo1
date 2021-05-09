@@ -4,6 +4,7 @@ Learn GitHub Actions through a fun little game.
 
 git clone https://github.com/a-a-ron/github-actions-course-template.git
 git config --global user.name "crisroddev
+hola
 
 #Add Branches Local
 git checkout add-jest

@@ -21,3 +21,9 @@ git checkout add-jest
 git push
 
 compare & pull request
+Merge
+Now merge to master
+
+#Add Windows to runners
+##Worklow edit
+os: [ubuntu-latest, windows-2016]

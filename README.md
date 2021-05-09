@@ -27,3 +27,7 @@ Now merge to master
 #Add Windows to runners
 ##Worklow edit
 os: [ubuntu-latest, windows-2016]
+
+git checkout team-workflow
+git show
+git push
